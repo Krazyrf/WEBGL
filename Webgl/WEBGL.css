@@ -1,0 +1,21 @@
+.btn-group {
+    position: absolute;
+    top: 10px;
+}
+div{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: inline-block;
+    left: 40%;
+}
+a {
+    text-decoration: none;
+    padding: 5px 10px;
+    color: white;
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
+input {
+    padding: 5px 10px;
+}
